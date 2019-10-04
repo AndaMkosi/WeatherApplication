@@ -1,0 +1,8 @@
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\bin\Debug\netstandard2.0\WeatherAppLibrary.deps.json
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\bin\Debug\netstandard2.0\WeatherAppLibrary.dll
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.csprojAssemblyReference.cache
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.AssemblyInfo.cs
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\bin\Debug\netstandard2.0\WeatherAppLibrary.pdb
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.dll
+C:\Users\Anda\source\repos\WeatherApp\WeatherAppLibrary\obj\Debug\netstandard2.0\WeatherAppLibrary.pdb
